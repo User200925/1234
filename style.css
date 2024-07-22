@@ -1,0 +1,27 @@
+.nav{
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+#qw{
+    text-align: center;
+
+}
+#fan{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+.sd{
+    width: 250px;
+    height: 250px;
+    border: 1px solid red;
+    background-color: red;
+}
+.rt{
+    color: white;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
